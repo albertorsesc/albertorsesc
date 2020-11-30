@@ -5,6 +5,5 @@
 - 🔭 I’m currently working on several projects, private and public to be. One of those is a Go to app for everything related to Construction industry I hope to release it January 2021.
 - 🌱 Besides Web development my second/first passion is Bug Bounty Hunting.
 
-- 📫 You can reach me at: 
-  * @: alberto.rsesc@protonmail.com
-  * In: https://www.linkedin.com/in/albertorsesc/
+- more info @:
+https://alberto-rosas.dev
