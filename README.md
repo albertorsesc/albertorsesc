@@ -2,7 +2,7 @@
 
 
 # About me
-- 🔭 I’m currently working on several projects, private and public to be. One of those is a Go to app for everything related to Construction industry I hope to release it January 2021.
+- 🔭 I’m currently working on several projects, private and public to be. One of those is a Go to app for everything related to Construction industry which is released in my country (Mexico) and the other one is an application to find anything related to pets: adoptions, lost and found, vets and other resources which I'll release in July 2021.
 - 🌱 Besides Web development my second/first passion is Bug Bounty Hunting.
 
 - more info @:
