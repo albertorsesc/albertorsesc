@@ -5,7 +5,7 @@ I'm [Alberto](https://alberto-rosas.dev), I work as a Fullstack PHP Developer fo
 
 In my free time I work in my personal projects:
 
-- [LittlePets](https://littlepets.io) - First application that helps unite efforts for aiding abandoned pets in Mexico.
+- [LittlePets](https://littlepets.io) - Community-based application that helps unite efforts for aiding abandoned pets in Mexico.
 - [Houseify](https://houseify.io) - First free application built for the Construction industry in Mexico.
 - [Personal Site](https://alberto-rosas.dev) - Personal site where you can find more info about me.
 - [Twitter](https://twitter.com/bcryp7) - Twitter profile where I occasionally tweet about Laravel and the tech stack around it.
