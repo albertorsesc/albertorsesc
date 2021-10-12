@@ -1,9 +1,13 @@
-![Hello There](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fnerdist.com%2Fwp-content%2Fuploads%2F2017%2F08%2FObi-Wan-Hello-08182017.gif&f=1&nofb=1)
+![Hello there](https://gifimage.net/wp-content/uploads/2018/04/obi-wan-hello-there-gif-8.gif)
 
 
-# About me
-- 🔭 I’m currently working on several projects, private and public to be. One of those is a Go to app for everything related to Construction industry which is released in my country (Mexico) and the other one is an application to find anything related to pets: adoptions, lost and found, vets and other resources which I'll release in July 2021.
-- 🌱 Besides Web development my second/first passion is Bug Bounty Hunting.
+I'm [Alberto](https://alberto-rosas.dev), I work as a Fullstack PHP Developer for U.S. companies as well as maintaining two independant projects in the wild.
 
-- more info @:
-https://alberto-rosas.dev
+In my free time I work in my personal projects:
+
+- [LittlePets](https://littlepets.io) - First application that helps unite efforts for aiding abandoned pets in Mexico.
+- [Houseify](https://houseify.io) - First free application built for the Construction industry in Mexico.
+- [Personal Site](https://alberto-rosas.dev) - Personal site where you can find more info about me.
+- [Twitter](https://twitter.com/bcryp7) - Twitter profile where I occasionally tweet about Laravel and the tech stack around it.
+
+I'm a developer focused on Security since that is my first passion in this industry, I do Bug bounties and spread awareness about vulnerabilities that might impact your applications.
