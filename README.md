@@ -43,4 +43,10 @@ I'm Alberto, I work as a Senior Software Engineer for U.S. companies as well as 
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/albertorsesc/app.houseify.io" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=albertorsesc&repo=app.houseify.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/albertorsesc/beprogmyapi.com" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=albertorsesc&repo=beprogmyapi.com&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/albertorsesc/app.houseify.io" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=albertorsesc&repo=app.houseify.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/albertorsesc/beprogmyapi.com" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=albertorsesc&repo=beprogmyapi.com&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+<b>Get $100USD credit on DigitalOcean and launch your next app.</b>
+
+<div width="100%" align="start">
+<a href="https://www.digitalocean.com/?refcode=04a6ad2b35d4&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
+</div>
