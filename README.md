@@ -48,5 +48,6 @@ I'm Alberto, I work as a Senior Software Engineer for U.S. companies as well as 
 <b>Get $100USD credit on DigitalOcean and launch your next app.</b>
 
 <div width="100%" align="start">
-<a href="https://www.digitalocean.com/?refcode=04a6ad2b35d4&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
+<a href="https://www.digitalocean.com/?refcode=04a6ad2b35d4&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg" alt="DigitalOcean Referral Badge" /></a>
+
 </div>
