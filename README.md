@@ -6,7 +6,7 @@ Senior Software Engineer
 
 I'm Alberto, I work as a Senior Software Engineer for U.S. companies as well as maintaining two independent projects in the wild. I'm a developer focused on Security since that is my first passion, I do Security Research in my spare time and spread awareness about vulnerabilities that might impact your applications. 
 
-My goal as a Software Engineer is to propose and implement Architectural solutions for the projects I work on as well as help development teams reach a stable work-flow for the improvement of the project and therefore, the company.
+My goal as a Software Engineer is to propose and implement Architectural solutions for the projects I work on, as well as help development teams reach a stable work-flow for the improvement of the project and therefore, the company.
 
 * 🌍  I'm based in Mexico
 * 🖥️  See my portfolio at [Official site](http://alberto-rosas.dev)
