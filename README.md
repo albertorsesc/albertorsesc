@@ -4,7 +4,7 @@ Hi 👋 My name is Alberto Rosas
 Senior Software Engineer
 ------------------------
 
-I'm Alberto, I work as a Senior Software Engineer for U.S. companies as well as maintaining two independent projects in the wild. I'm a developer focused on Security since that is my first passion, I do Security Research in my spare time and spread awareness about vulnerabilities that might impact your applications. 
+I'm Alberto, I work as a Senior Software Engineer and Consultant for international companies. I do Security Research in my spare time as well as spread awareness about vulnerabilities that might impact your applications.
 
 My goal as a Software Engineer is to propose and implement Architectural solutions for the projects I work on, as well as help development teams reach a stable work-flow for the improvement of the project and therefore, the company.
 
@@ -38,15 +38,7 @@ My goal as a Software Engineer is to propose and implement Architectural solutio
 
 <p align="left"> <a href="https://www.github.com/albertorsesc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/albertorsesc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/bcryp7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/albertorsesc"><img src="https://github-readme-stats.vercel.app/api?username=albertorsesc&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="albertorsesc's GitHub stats" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/albertorsesc/app.houseify.io" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=albertorsesc&repo=app.houseify.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/albertorsesc/beprogmyapi.com" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=albertorsesc&repo=beprogmyapi.com&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br />
 
 <b>Get $100USD credit on DigitalOcean and launch your next app.</b>
 
