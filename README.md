@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Software Engineer
 ------------------------
 
-I'm Alberto, I work as a Senior Software Engineer and Consultant for international companies. I do Security Research in my spare time as well as spread awareness about vulnerabilities that might impact your applications. My goal as a Software Engineer is to propose and implement Architectural solutions for the projects I work on, as well as help development teams reach a stable work-flow for the improvement of the project and therefore, the company.
+I'm Alberto, I work as a Senior Software Engineer and Consultant for international companies, my focus is on proposing and implementing effective architectural solutions for the projects I work on. In my spare time, I also conduct security research and strive to raise awareness about potential vulnerabilities that may impact your applications. My ultimate goal is to help development teams establish a stable work-flow that allows for the continuous improvement of both the project and the company as a whole.
 
 * 🌍  I'm based in Mexico
 * 🖥️  See my portfolio at [Personal Site](http://alberto-rosas.dev)
