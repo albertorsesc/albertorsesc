@@ -6,11 +6,11 @@ Senior Software Engineer
 
 I'm Alberto, I work as a Senior Software Engineer and Consultant for international companies, my focus is on proposing and implementing effective architectural solutions for the projects I work on. In my spare time, I also conduct security research and strive to raise awareness about potential vulnerabilities that may impact your applications. My ultimate goal is to help development teams establish a stable work-flow that allows for the continuous improvement of both the project and the company as a whole.
 
-* 🌍  I'm based in Mexico
+* 🌍  Currently based in 🇲🇽 Mexico.
 * 🖥️  See my portfolio at [Personal Site](http://alberto-rosas.dev)
 * ✉️  You can contact me at [alberto.rsesc@protonmail.com](mailto:alberto.rsesc@protonmail.com)
-* 🧠  I'm learning Kubernetes
-* ⚡  Into Web application Security Research commonly known as Bug Bounties.
+* ⛓️  I'm learning Web3 d-apps, 🔏 SmartContracts and Ξ NFTs.
+* ⚡  Into Web application 🛡️ Security Research commonly known as 🪲 Bug Bounties.
 
 ### Skills
 
