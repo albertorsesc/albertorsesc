@@ -9,7 +9,7 @@ I'm Alberto, I work as a Senior Software Engineer and Consultant for internation
 * 🌍  Currently based in 🇲🇽 Mexico.
 * 🖥️  See my portfolio at [Personal Site](http://alberto-rosas.dev)
 * ✉️   You can contact me at [alberto.rsesc@protonmail.com](mailto:alberto.rsesc@protonmail.com)
-* ⛓️  I'm learning Web3 d-apps and AI.
+* 🤖  I'm learning AI: Deep Learning.
 * 📖  Reading: Life 3.0 - Being Human in the Age of Artificial Intelligence by Max Tegmark
 * ⚡   Into Web application 🛡️ Security Research commonly known as 🪲 Bug Bounties.
 
