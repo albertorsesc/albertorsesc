@@ -4,14 +4,21 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Software Engineer
 ------------------------
 
-I'm Alberto, I work as a Senior Software Engineer and Consultant for international companies, my focus is on proposing and implementing effective architectural solutions for the projects I work on. In my spare time, I also conduct security research and strive to raise awareness about potential vulnerabilities that may impact your applications. My ultimate goal is to help development teams establish a stable work-flow that allows for the continuous improvement of both the project and the company as a whole.
+I'm Alberto, a Senior Software Engineer and Consultant. 
+
+While I architect solutions for top-tier international firms, I'm also immersing myself in the expansive world of AI—dabbling in ML, DL, RL, and NN. 
+
+Alongside this, I'm committed to fortifying app security through proactive research. 
+
+My vision? Elevate teams to a harmonized rhythm of growth and innovation. 🌍🤖🛡️
 
 * 🌍  Currently based in 🇲🇽 Mexico.
 * 🖥️  See my portfolio at [Personal Site](http://alberto-rosas.dev)
 * ✉️   You can contact me at [alberto.rsesc@protonmail.com](mailto:alberto.rsesc@protonmail.com)
-* 🤖  I'm learning AI: Deep Learning.
+* 🤖  I'm learning AI: Machine Learning.
 * 📖  Reading: Life 3.0 - Being Human in the Age of Artificial Intelligence by Max Tegmark
 * ⚡   Into Web application 🛡️ Security Research commonly known as 🪲 Bug Bounties.
+* 🐦  Follow me on X: [@bcryp7](https://twitter.com/bcryp7)
 
 ### Skills
 
