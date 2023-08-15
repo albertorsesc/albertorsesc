@@ -4,13 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Software Engineer
 ------------------------
 
-I'm Alberto, a Senior Software Engineer and Consultant. 
+Hi, I'm Alberto. As a Senior Software Engineer and Consultant.
 
-While I architect solutions for top-tier international firms, I'm also immersing myself in the expansive world of AI—dabbling in ML, DL, RL, and NN. 
+I've been at the helm of creating impactful solutions for top-tier international firms. 
 
-Alongside this, I'm committed to fortifying app security through proactive research. 
+My current exploration? Venturing through AI’s vast domains, from ML to NN.
 
-My vision? Elevate teams to a harmonized rhythm of growth and innovation. 🌍🤖🛡️
+Alongside this, I'm committed to fortifying app security through proactive research.
+
+My goal? Guiding teams towards synergy, and pushing the boundaries of innovation. 🌍🤖🛡️
 
 * 🌍  Currently based in 🇲🇽 Mexico.
 * 🖥️  See my portfolio at [Personal Site](http://alberto-rosas.dev)
