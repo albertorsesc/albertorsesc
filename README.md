@@ -17,8 +17,8 @@ My goal? Guiding teams towards synergy, and pushing the boundaries of innovation
 * 🌍  Currently based in 🇲🇽 Mexico.
 * 🖥️  See my portfolio at [Personal Site](http://alberto-rosas.dev)
 * ✉️   You can contact me at [alberto.rsesc@protonmail.com](mailto:alberto.rsesc@protonmail.com)
-* 🤖  I'm learning AI: Machine Learning.
-* 📖  Reading: Life 3.0 - Being Human in the Age of Artificial Intelligence by Max Tegmark
+* 🤖  Diving deep into AI: Machine Learning.
+* 📖  Reading: Artificial Intelligence: A Modern Approach by Stuart Russell & Peter Norvig
 * ⚡   Into Web application 🛡️ Security Research commonly known as 🪲 Bug Bounties.
 * 🐦  Follow me on X: [@bcryp7](https://twitter.com/bcryp7)
 
