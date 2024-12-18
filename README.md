@@ -9,11 +9,9 @@ Hi, I'm Alberto. As a Senior Software Engineer for over a decade I've been at th
 My current exploration? Venturing through AI’s vast domains, from ML to NN. Alongside this, I'm committed to fortifying app security through proactive research. My goal? Guiding teams towards synergy, and pushing the boundaries of innovation. 🌍🤖🛡️
 
 * 🌍  I'm based in Mexico
-* 📰 Checkout my blog [Into AI Engineering](https://intoaiengineering.substack.com/)
-* 🖥️  See my portfolio at [My Site](http://alberto-rosas.dev)
-* ✉️  You can contact me at [alberto.rsesc@protonmail.com](mailto:alberto.rsesc@protonmail.com)
-* 🧠  I'm learning AI, ML, Neural Networks, RAG, and Fine-tuning LLMs
-* 📖 Reading: Artificial Intelligence: A Modern Approach by Stuart Russell & Peter Norvig
+* 📰 Checkout my [blog](https://alberto-rosas.dev/blog/)
+* 🧠  I'm learning AI, ML, Neural Networks, RAG, and Fine-tuning LLMs.
+* 📖 Reading: Artificial Intelligence: A Modern Approach by Stuart Russell & Peter Norvig.
 * ⚡  Into Web application 🛡️ Security Research commonly known as 🪲 Bug Bounties.
 * 🐦 Follow me on X: [@bcryp7](https://twitter.com/bcryp7)
 
